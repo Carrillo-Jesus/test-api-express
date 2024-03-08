@@ -8,7 +8,7 @@ Asegúrate de tener instalado lo siguiente antes de comenzar:
 
 - Node.js 20.10.0
 - npm (Administrador de paquetes de Node.js)
-- Base de datos (Mysql, MongoDB, etc.)
+- Base de datos (Mysql, postgres, etc.)
 - Después de instalarla crea una base de datos
 
 ## Instalación
@@ -16,7 +16,7 @@ Asegúrate de tener instalado lo siguiente antes de comenzar:
 1. Clona este repositorio:
 
    ```bash
-    git clone https://github.com/Carrillo-Jesus/api-starter-mvc
+    git clone https://github.com/Carrillo-Jesus/test-api-express
     ```
 2. Navega a la raiz del proyecto clonado
 
@@ -47,6 +47,12 @@ Asegúrate de tener instalado lo siguiente antes de comenzar:
     ```
 
 ## Iniciar el poryecto
+
+- Ejecuta el comando para correr las pruebas:
+
+    ```bash
+    npm run test
+    ```
 
 - Ejecuta el comando para iniciar y escuchar cambios:
 
