@@ -1,6 +1,6 @@
-# Express API Starter (MVC)
+# Test Express API Starter (MVC)
 
-API with Express intended to serve as a basis for starting mern projects.
+API crud test with Express, intended to serve as a basis to start mern projects with integration tests.
 
 ## Requisitos previos
 
